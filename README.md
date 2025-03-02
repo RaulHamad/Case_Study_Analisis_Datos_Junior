@@ -1,7 +1,6 @@
 📌 Estudo de Caso - Análise de Dados em Ingeniería Civil 
 1. Introducción
 En este estudio de caso, trabajaremos con una empresa de ingeniería civil en España que gestiona proyectos de construcción, incluyendo edificaciones residenciales, comerciales e infraestructuras.
-
 El objetivo es analizar los datos de la empresa utilizando Power BI, con un enfoque en la limpieza, modelado y visualización de datos para tomar mejores decisiones empresariales.
 
 2. Público Objetivo de los Reportes
@@ -35,6 +34,7 @@ El dataset tiene varios errores que deben resolverse antes del análisis:<br />
 ❌ Tablas desnormalizadas → Información redundante que debe ser optimizada.<br />
 
 5. Preguntas de Negocio a Responder en Power BI<br />
+
 🔹 Nivel Principiante<br />
 ✅ ¿Cuántos proyectos se han completado en los últimos 12 meses?<br />
 ✅ ¿Cuál es el costo promedio de un proyecto?<br />
@@ -49,6 +49,7 @@ El dataset tiene varios errores que deben resolverse antes del análisis:<br />
 ✅ ¿Hay estacionalidad en la contratación de proyectos de construcción?<br />
 
 6. Entregables Esperados<br />
+
 ✅ Modelo de datos optimizado en Power BI (con relaciones correctas).<br />
 ✅ Dashboard interactivo con KPIs de costos, ingresos y rentabilidad.<br />
 ✅ Análisis de eficiencia de proyectos con tiempos y costos reales vs estimados.<br />
